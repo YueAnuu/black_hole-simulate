@@ -4,7 +4,7 @@ Black hole simulation project
 
 Here is the black hole raw code, everything will be inside a src bin incase you want to copy the files
 
-I'm writing this as I'm beginning this project (hopefully I complete it ;D) here is what I plan to do:
+Here is what i have planned to do:
 
 1. Ray-tracing : add ray tracing to the gravity simulation to simulate gravitational lensing
 
